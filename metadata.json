@@ -1,0 +1,6 @@
+{
+  "name": "ប្រព័ន្ធគ្រប់គ្រងសាលារៀន (School Management System)",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងសាលារៀនពេញលេញ រួមមាន ការគ្រប់គ្រងសិស្ស គ្រូ ថ្នាក់រៀន ពិន្ទុ វត្តមាន និងតារាងមធ្យមភាគលទ្ធផលសិក្សា ជាមួយ Google Sheets backend និង Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
